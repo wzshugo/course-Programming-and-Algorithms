@@ -1,0 +1,14 @@
+﻿  源.cpp
+C:\Users\wzshugo\source\repos\不围棋大作业\不围棋大作业\源.cpp(465,42): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\wzshugo\source\repos\不围棋大作业\不围棋大作业\源.cpp(465,24): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\wzshugo\source\repos\不围棋大作业\不围棋大作业\源.cpp(474,42): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\wzshugo\source\repos\不围棋大作业\不围棋大作业\源.cpp(474,24): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\wzshugo\source\repos\不围棋大作业\不围棋大作业\源.cpp(498,30): warning C4305: “参数”: 从“__int64”到“ege::color_t”截断
+C:\Users\wzshugo\source\repos\不围棋大作业\不围棋大作业\源.cpp(498,19): warning C4309: “参数”: 截断常量值
+C:\Users\wzshugo\source\repos\不围棋大作业\不围棋大作业\源.cpp(500,30): warning C4305: “参数”: 从“__int64”到“ege::color_t”截断
+C:\Users\wzshugo\source\repos\不围棋大作业\不围棋大作业\源.cpp(500,19): warning C4309: “参数”: 截断常量值
+C:\Users\wzshugo\source\repos\不围棋大作业\不围棋大作业\源.cpp(501,39): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\wzshugo\source\repos\不围棋大作业\不围棋大作业\源.cpp(501,25): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\wzshugo\source\repos\不围棋大作业\不围棋大作业\源.cpp(580,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wzshugo\source\repos\不围棋大作业\不围棋大作业\源.cpp(580,51): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  不围棋大作业.vcxproj -> C:\Users\wzshugo\source\repos\不围棋大作业\x64\Debug\不围棋大作业.exe
